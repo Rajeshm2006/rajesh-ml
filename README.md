@@ -1,6 +1,7 @@
+````md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Rajesh%20M&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Explorer&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:312e81,100:06b6d4&text=RAJESH%20M&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%2FML%20Engineer%20%7C%20Python%20Developer&descAlignY=56"/>
 
 </div>
 
@@ -8,107 +9,124 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Hey+There+👋;I'm+Rajesh+M;Python+Developer+⚡;SQL+%7C+Web+Development+💻;Building+Cool+Projects+🚀;Always+Learning+New+Things+📚"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&pause=1000&color=06B6D4&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+🚀;Data+Analyst+📊;Python+Developer+💻;Building+Smart+Solutions+⚡;Power+BI+%7C+Machine+Learning+%7C+SQL"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🌌 About Me
 
-<img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2M3Z2VzbzJ2YzN3M2Y4MGR6bTllODVvM3E2eTg0OGJ6MXE4aTZlNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif"/>
+<img align="right" height="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```yaml
 Name: Rajesh M
-Role: Python Developer
-Location: India
+Location: Coimbatore, Tamil Nadu, India
 
-Skills:
+Role:
+  - AI/ML Engineer
+  - Data Analyst
+  - Python Developer
+
+Education:
+  Degree: B.Tech Artificial Intelligence and Machine Learning
+  College: Sri Shakthi Institute of Engineering and Technology
+  CGPA: 7.18
+
+Technical Skills:
   - Python
   - SQL
-  - HTML
-  - CSS
-  - JavaScript
+  - Power BI
+  - Machine Learning
+  - Pandas
+  - NumPy
+  - scikit-learn
+  - Data Visualization
 
-Interests:
-  - Open Source
-  - Web Development
-  - Problem Solving
-  - AI & Automation
+Tools:
+  - Git & GitHub
+  - MySQL
+  - VS Code
+  - Google Colab
 
 Currently Learning:
-  - Advanced Python
+  - Advanced Machine Learning
   - Backend Development
-  - DSA
+  - AI Automation
 
-Dream:
-  - Become an Elite Software Engineer 🚀
+Goal:
+  Turning data into intelligent business solutions 🚀
 ```
 
 ---
 
-# ⚡ Tech Arsenal
+# ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github,vscode,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
 </div>
 
 ---
 
-# 🚀 GitHub Universe
+# 🚀 Featured Projects
+
+## 📊 Financial Data Analysis Dashboard
+✔ Built interactive Power BI dashboards tracking 12+ KPIs  
+✔ Reduced manual reporting effort by 40%  
+✔ Replaced 5 static Excel reports with dynamic analytics  
+
+---
+
+## 🤖 Customer Churn Prediction
+✔ Developed ML model using Random Forest  
+✔ Achieved **85% Accuracy** and **0.82 AUC-ROC**  
+✔ Identified major churn-driving factors for retention strategy  
+
+---
+
+## 🛒 Retail Sales Performance Dashboard
+✔ Analyzed 50,000+ transactions  
+✔ Automated complete data pipeline  
+✔ Reduced data preparation time from 3 hours to 20 minutes  
+
+---
+
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rajeshm2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true&background=0D1117"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajeshm2006&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=8A2BE2&line=00FFFF&point=FFFFFF&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajeshm2006&bg_color=0D1117&color=06B6D4&line=8B5CF6&point=FFFFFF&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 Achievement Zone
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
-
-</div>
-
----
-
-# 🌌 Visitor Counter
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
-
-</div>
-
----
-
-# 🎯 Current Mission
-
-<div align="center">
-
-```diff
-+ Building Real-World Projects
-+ Improving Problem Solving
-+ Learning Backend Development
-+ Exploring AI Tools
-```
+<img src="https://github-profile-trophy.vercel.app/?username=Rajeshm2006&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
 
 </div>
 
@@ -118,34 +136,39 @@ Dream:
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Rajeshm2006">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/rajesh-989844293">
+<img src="https://img.shields.io/badge/LinkedIn-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-00FFFF?style=for-the-badge&logo=gmail&logoColor=black"/>
+<a href="mailto:rajeshm9806@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# ✨ Dev Quote
+# 💡 Professional Summary
 
-<div align="center">
+> Passionate AI/ML Engineer and Data Analyst with hands-on experience in Machine Learning, Power BI dashboards, predictive analytics, and data-driven problem solving. Skilled at transforming raw datasets into actionable insights and intelligent business solutions.
 
-> ### "Code creates possibilities. Learning creates power."
+---
 
-</div>
+# ✨ Fun Fact
+
+```diff
++ I love turning raw data into smart AI-powered solutions 🚀
+```
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:24243e,50:302b63,100:0f0c29"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:06b6d4,50:312e81,100:0f172a"/>
 
 </div>
+````
